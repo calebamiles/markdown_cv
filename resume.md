@@ -1,70 +1,65 @@
-# caleb miles
+# juan carlos medina
 
-caselim@gmail.com  
-1.909.542.8717  
-San Francisco, CA  
+juanca.med@gmail.com
+915.727.4983
+San Francisco, CA
 
 ## Overview
-I am a graduate of Claremont McKenna College where I obtained a dual degree in Physics and Mathematics.
-It is my goal to work on exceptionally challenging computational problems in applied science. I am very excited by the advancements in the use of computers in the modeling of complex physical systems and am very interested in creating software that enables computational exploration of the physical world; and I am dedicated to the development of open source software because I believe that software, like ideas, are best when shared openly. 
+I am a graduate of Claremont McKenna College where I obtained a degree in Economics.
+In the process, I started an Engineering curriculum and almost finished a Computer Science curriculum.
+
 
 ### Technical Skills
 
-* Languages: Ruby, Go, Python, C/C++, BASH
-* Software: MATLAB, Mathematica, SAGE, FEniCS, OpenFOAM, COMSOL
-* Linux Distributions: Ubuntu, Fedora, SUSE
-* Version Control: Git, Mercurial
+* Languages: Ruby, SQL, Javascript/Coffeescript, C/C++, Haskell, SystemVerilog
+* Frameworks: Ruby on Rails, Backbone, Marionette
+* Software: MATLAB, STATA, SolidWorks, ModelSim, Quartus 2
+* [CV] General Applications:
+* Version Control: Git, Subversion
 
 ## Industry Experience
 
-### Pivotal Software, San Francisco CA  
-#### Software Engineer, September 2013 to present.\
+### Mavenlink, San Francisco CA
+#### Software Engineer, June 2013 to present.\
 
-Developer of BOSH: an open source tool for orchestrating stable deployments of software to unstable cloud
-infrastructure. Worked all along the software deployment stack from Linux Kernel patching and virtual machine
-image creation to client server interactions between a Ruby CLI, a RESTful Ruby deployment director and a Go
-agent for the director which resides on virtutal machine images. Pivotal is a TDD pair programming shop where
-engineers tend to wear a lot of technical hats beyond simply shipping stories, such as regular rotations
-as front line open source community managers and production support engineers.
+Mavenlink is a test-focused development pair programming shop where engineers have the opportunity to improve their
+technical hats beyond their comfort zones, such as regular rotations as production support engineers and devops
+engineers. As a full stack engineer, I have been responsible for architecturing and iterating on a wide variety of
+facets to the application
+
+ * Ruby on Rails server application
+ * Backbone and Marionette client application
+
+### Mavenlink, San Francisco CA
+#### Development Intern - June 2012 to August 2012.\
+
+ * Full stack engineering responsibilities
+ * Designed and implemented new features for Mavenlink's desktop and mobile websites
+ * Participated in pair programming with software engineers
+ * Collaborated in the implementation of a web analytics system
+
+### Mavenlink, Claremont CA
+#### Team Member - October 2011 to May 2012.\
+
+ * Collaborated in prototyping a referral network
+ * Implemented cluster algorithms with proprietary trust things (fixme)
+ * Prototype stack: Ruby on Rails, HTML, Javascript, and MySQL
+
+# Academics
+Bachelor of Arts in Economics from Claremont McKenna College. Sequence (minor) in Computer Science. Graduated in May 2013.
+Junior Scholars Program at the University of Texas at El Paso. September 2007 to May 2008.
+Early Admissions Program at the El Paso Community College. September 2006 to May 2008.
+Distinguished Diploma from Cathedral High School. El Paso, Texas. Graduated in May 2008.
+
+## Activities
+
+### Lowe Institute of Political Economy, Claremont McKenna College
 
 
-### inktank, Los Angeles CA
-#### Software Developer - October 2012 to April 2013.\
+### Student Technology Assistance Team, Claremont McKenna College
 
-Junior developer of the RADOS Gateway, a RESTful interface to a Ceph cluster supporting Amazon S3 and OpenStack
-Swift API calls.
+### Interests
 
- * Exposed a RESTful API for user, bucket, and object management of the Rados Gateway.
- * Supported Professional Services staff in customer assistance.
- * Authored API specification documentation.
- * Helped unify the implementation of the RESTful administrative interface and the existing CLI.
- * Provided code review for community submitted patches.
 
-### inktank, Los Angeles CA
-#### Development Intern - May 2012 to September 2012.\
+### Awards
 
-Performed experimental algorithm analysis. Developed software in response to feature requests and bug reports in collaboration with lead developers. 
-
- * Implemented portions of the S3 API for the RADOS gateway in C++.
- * Performed statistical analysis of the CRUSH algorithm using R and NumPy/SciPy.
-
-## Research Experience
-
-### University of Hawai'i, Honolulu HI
-#### Undergraduate Intern - Summer of 2011.\
-
-Participated in a NSF funded Research Experience for Undergraduates in Computational Fluid Dynamics under principal investigator Dr. Marcelo Kobayashi.
-
-* Modified standard OpenFOAM solvers for use in non-inertial reference frames.
-* Performed verification and validation studies of modified work.
-
-### University of New Mexico, Albuquerque NM
-#### Undergraduate Researcher - Summer of 2010.\
-
-Participated in a NSF funded Research Experience for Undergraduates in computational quantum chemistry under principal investigator Dr. Hua Guo.
-
- * Utilized the open source Atomic Simulation Environment to create Python scripts to drive simulations.
- * Created Python scripts for data reduction and chart generation during live simulations.
-
-# Education
-Bachelor of Arts in Physics and Mathematics from Claremont McKenna College. Sequence (minor) in Scientific Modeling. Graduated in 2012.

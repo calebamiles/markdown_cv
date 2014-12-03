@@ -1,2 +1,2 @@
 #!/bin/bash
-pandoc -H header.tex -o caleb_miles_cv.pdf resume.md
+pandoc -H header.tex -o juan_carlos_medina_cv.pdf resume.md
