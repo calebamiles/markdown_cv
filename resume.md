@@ -23,19 +23,19 @@ It is my goal to work on exceptionally challenging computational problems in app
 Developer at Pivotal Software working on the open source Cloud Foundry Platform as a Service (PaaS). Pivotal engineers typically rotate through teams over the course of several months and I have contributed to 
 the following engineering teams:
 
-Cloud Foundry BOSH CPI:
+ * Cloud Foundry BOSH CPI:
 The BOSH Cloud Provider Interface (CPI) provides a unified interface for managing virtual or physical machines and persistent disk lifecycle within an infrastructure provider such as Amazon Web Services (AWS), OpenStack, or VMWare vSphere. Constructed new Continuous Integration (CI) pipelines for the several CPIs maintained by the Cloud Foundry Foundation. Utilized Concourse, a novel open source CI system, in order to improve developer experience and confidence while reducing the time to delivery for features and bug fixes. Provided training in agile development practices with Foundation Partners such as IBM, SAP, EMC, and VMWare. Aided in the development of new CPIs in collaboration with an EMC engineering team. Maintained and extended CPIs for OpenStack, Amazon Web Services. VMWare vSphere, and VMWare vCloud Director.
 
-Pivotal GemFire service broker:
+* Pivotal GemFire service broker:
 The Pivotal GemFire service broker consists of a Golang web service that manages the lifecycle of clusters of Pivotal GemFire, a distributed in memory datastore. Clusters would be safely recycled for use in a multitenant environment from a pool which had been previously orchestrated by the service. At the time I rotated onto the project the service broker was an entirely greenfield project. During my tenure as engineering anchor I successfully transferred development of the service broker to the engineering office where Pivotal GemFire is developed. Transferring the project involved training several engineers in our engineering practices, continuous integration system and release tooling.
 
 
-Pivotal Data Services:
+* Pivotal Data Services:
 The Pivotal Data Services team developed the Pivotal Hadoop service broker for Pivotal’s commercial Cloud Foundry offering (PCF). The service broker consisted of a web service written in Golang which dynamically deployed single tenant clusters of Pivotal’s Hadoop distribution. At the time I rotated onto the project the service broker was a large and complicated project due to the fact that service broker implemented several features that the underlying cluster deployment tool needed to provide. During my tenure as engineering anchor I worked with the engineering directors and product team to suspend engineering development until such time that additional features were available the underlying cluster deployment tool, Cloud Foundry BOSH, which would drastically reduce the complexity and brittleness of the service broker architecture.
 
 
 
-Cloud Foundry BOSH:
+* Cloud Foundry BOSH:
 Cloud Foundry BOSH is an open source toolchain for the reliable and repeatable deployment of clusters of software. A BOSH Director manages software lifecycle via the BOSH Agent which runs on every machine managed by the BOSH Director. Maintained and extended the large Ruby codebase of the BOSH Director and the growing Golang codebase of the BOSH Agent and bootstrapping utilities. Daily activities ranged from patching security vulnerabilities in our machine images to bisecting the Linux kernel looking for a bug in ARP Cache eviction, providing production support for Pivotal Web Services, a publicly available Cloud Foundry installation. During my rotation on BOSH I worked very closely with a new project manager to accept stories due to the incredibly technical nature of the project. Also worked with the documentation team to improve the information provided to Pivotal’s commercial customers.
 
 
