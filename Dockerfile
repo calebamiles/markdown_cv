@@ -1,4 +1,5 @@
-FROM ubuntu:15.10
+FROM calebamiles/markdown_cv:latest
 
-RUN apt-get update; apt-get install -y hugs vim tmux git; apt-get clean -y
-RUN apt-get install -y texlive texlive-formats-extra pandoc; apt-get clean -y
+ADD ./generate_pdf.sh /root/
+ADD ./header.tex /root/
+ADD ./resume.md /root/
